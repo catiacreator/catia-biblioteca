@@ -19,3 +19,9 @@ Arquivo de publicações de referência do @catiacreator: texto de cada slide, m
 - Último slide igual: "Guarda para mais tarde — E — Segue Cátia Creator".
 - Partilhas sempre acima dos gostos: conteúdo prático que se envia a alguém.
 - Os dois com mais partilhas (> 9 mil) são os de prompts simples e de "regras do algoritmo"; os prompts mais "conceptuais" (7 prompts em silêncio) ficaram nas 2,4 mil.
+
+## Roteiros (por publicar)
+
+| Roteiro | Formato | Base |
+|---|---|---|
+| [O algoritmo de 2027 acabou de ser exposto](roteiros/carrossel-algoritmo-2027-exposto.md) | Carrossel · 10 slides | Sequela do post de 2026, com pesquisa de nov 2026 |
