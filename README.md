@@ -10,6 +10,7 @@ Arquivo de publicações de referência do @catiacreator: texto de cada slide, m
 | 2026-01 | [O algoritmo de 2026 acabou de ser exposto](posts/2026-01-algoritmo-2026-exposto/README.md) | Carrossel · 10 slides | 340 mil | 9 318 |
 | 2026-01 (≤ 11 jan) | [Os "não-seguidores" não estão a ver os teus Reels…](posts/2026-01-nao-seguidores-reels/README.md) | Carrossel · 7 slides | 272 mil | 4 379 |
 | 2026-01-11 | [7 prompts do ChatGPT que duplicam os teus seguidores em silêncio](posts/2026-01-11-7-prompts-chatgpt-seguidores/README.md) | Carrossel · 9 slides | 104 mil | 2 408 |
+| 2026-01-11 | [O Instagram está a roubar os teus seguidores!](posts/2026-01-11-instagram-roubar-seguidores/README.md) | Carrossel · 7 slides (tutorial desenhado) | 129 mil | 2 222 |
 
 ## Padrões comuns
 
